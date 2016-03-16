@@ -1,0 +1,16 @@
+label {
+    width: 180px;
+    font-size: medium;
+    color: #003d45;
+    font: "Lucida Grande", Verdana, sans-serif;
+}
+
+.loginButton {
+    background-color: #003d45;
+    color:#bcd2c9;
+    border: solid;
+    width: 80px;
+    height: 30px;
+    float: right;
+    margin-right: 10%;
+}
